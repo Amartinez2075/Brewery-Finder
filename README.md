@@ -11,7 +11,7 @@ The purpose of this application is to allow users to find local breweries to vis
 
 ## URL
 
-[https://steveb175.github.io/Brewery-Finder/](https://amartinez2075.github.io/Brewery-Finder/)
+(https://amartinez2075.github.io/Brewery-Finder/)
 
 ## Credits
 
