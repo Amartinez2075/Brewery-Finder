@@ -1,8 +1,17 @@
 # Brewery-Finder
 
 ## Description
-
 This application allows users to search for breweries in a desired city and it will also display the current weather within that city.
+
+## Tools Used
+
+- HTML
+- OpenWeatherMap API
+- CSS
+- OpenBreweryDB API
+- JavaScript
+- Bulma
+
 ## Visuals
 ![Example Visual](assets/images/brewery-finder-gif.gif)
 ## Usage
